@@ -1,0 +1,2 @@
+# isaoshimizuy
+xmlrpc server sample
